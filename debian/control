@@ -1,0 +1,41 @@
+Source: palapeli
+Priority: extra
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+Build-Depends: cmake,
+               debhelper (>= 8.0.0),
+               kdelibs5-dev (>= 4:4.9.80),
+               pkg-kde-tools,
+               libkdegames-dev (>= 4:4.9.80)
+Standards-Version: 3.9.3
+Section: libs
+Homepage: http://www.kde.org
+
+Package: palapeli
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, palapeli-data (>= ${source:Version}),
+ kdegames-data
+Recommends: qhull-bin
+Replaces: palapeli (<< 4:4.4.80)
+Description: jigsaw puzzle game
+ Palapeli is a jigsaw puzzle game. Unlike other games in that genre,
+ you are not limited to aligning pieces on imaginary grids. The
+ pieces are freely moveable.
+ .
+ Palapeli is the Finnish word for jigsaw puzzle.
+ .
+ This package is part of the KDE games module.
+
+Package: palapeli-data
+Architecture: all
+Depends: ${misc:Depends}
+Description: data files for palapeli jigsaw puzzle game
+ Data files (puzzles) for the palapeli puzzle game.
+ .
+ Palapeli is a jigsaw puzzle game. Unlike other games in that genre,
+ you are not limited to aligning pieces on imaginary grids. The
+ pieces are freely moveable.
+ .
+ Palapeli is the Finnish word for jigsaw puzzle.
+ .
+ This package is part of the KDE games module.
+

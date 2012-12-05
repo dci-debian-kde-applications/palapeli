@@ -5,7 +5,7 @@ Build-Depends: cmake,
                debhelper (>= 8.0.0),
                kdelibs5-dev (>= 4:4.9.90),
                pkg-kde-tools,
-               libkdegames-dev (>= 4:4.9.80),
+               libkdegames-dev (>= 4:4.9.90),
                shared-mime-info
 Standards-Version: 3.9.3
 Section: libs

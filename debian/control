@@ -14,7 +14,7 @@ Homepage: http://www.kde.org
 Package: palapeli
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, palapeli-data (>= ${source:Version}),
- kdegames-data
+ kdegames-data (>= ${source:Upstream-Version})
 Recommends: qhull-bin
 Replaces: palapeli (<< 4:4.4.80)
 Description: jigsaw puzzle game

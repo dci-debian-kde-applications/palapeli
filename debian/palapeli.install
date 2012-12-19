@@ -1,4 +1,4 @@
-usr/bin/palapeli
+usr/games/palapeli
 ../icons/palapeli-16.xpm /usr/share/pixmaps
 ../icons/palapeli.xpm /usr/share/pixmaps
 usr/lib/kde4/palapeli_goldbergslicer.so

@@ -1,0 +1,26 @@
+.TH PALAPELI 6
+.SH NAME
+palapeli \- KDE Jigsaw Puzzle Game
+.SH SYNOPSIS
+.B palapeli
+.I [Qt-options] [KDE-options] [options] [file]
+.SH DESCRIPTION
+.B Palapeli
+is a jigsaw puzzle game. Unlike other games in that genre,
+you are not limited to aligning pieces on imaginary grids. The
+pieces are freely moveable.
+
+Palapeli is the Finnish word for jigsaw puzzle.
+.SH OPTIONS
+.TP
+.B \-i file, \-\-import file
+Import the given file into the local collection.
+.TP
+.B file
+Use the file as the starting puzzle.
+.so kdeopt.part
+.SH SEE ALSO
+More detailed user documentation is available from
+.BR help:/palapeli
+(either enter this URL into \fBkonqueror\fP, or run `khelpcenter
+help:/palapeli').

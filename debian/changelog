@@ -1,0 +1,6 @@
+palapeli (4:4.10.2-1) UNRELEASED; urgency=low
+
+  * First release of kdegames after being split by upstream.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 12 Apr 2013 12:12:41 +0200
+

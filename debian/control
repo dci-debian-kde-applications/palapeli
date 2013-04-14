@@ -13,7 +13,8 @@ Uploaders: Daniel Schepler <schepler@debian.org>,
 Build-Depends: kde-sc-dev-latest (>= 4:4.10.2),
  cmake, debhelper (>= 9), pkg-kde-tools (>= 0.14),
  kdelibs5-dev (>= 4:4.10),
- libkdegames-dev (>= 4:4.10)
+ libkdegames-dev (>= 4:4.10),
+ shared-mime-info
 Standards-Version: 3.9.4
 Homepage: http://games.kde.org/
 Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/palapeli.git

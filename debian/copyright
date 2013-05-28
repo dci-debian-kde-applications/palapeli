@@ -1,18 +1,62 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: palapeli
-Source: http://kde.org
+Upstream-Contact: Albert Astals Cid <aacid@kde.org>
+                  Wolfgang Rohdewald <wolfgang@rohdewald.de>
+Source: http://www.kde.org/download/
 
 Files: *
-Copyright: 2009 Stefan Majewsky <majewsky@gmx.net>
+Copyright: 2009-2010, Stefan Majewsky <majewsky@gmx.net>
 License: GPL-2+
+
+Files: doc/*
+Copyright: 2009,2010, Johannes Löhnert <loehnert_kde@gmx.de>
+           2009,2010, Stefan Majewsky <majewsky@gmx.net>
+License: GFDL-1.2+
+
+Files: slicers/goldberg/goldberg-engine.cpp
+       slicers/goldberg/grid.h
+       slicers/goldberg/slicer-goldberg.cpp
+       slicers/goldberg/slicer-goldberg.h
+       src/engine/mergegroup.cpp
+       src/engine/piece.cpp
+       src/engine/piece.h
+       src/engine/piecevisuals.cpp
+       src/engine/piecevisuals.h
+Copyright: 2009-2010, Stefan Majewsky <majewsky@gmx.net>
+           2010, Johannes Löhnert <loehnert.kde@gmx.de>
+License: GPL-2+
+
+Files: src/config/mouseinputbutton.cpp
+       src/config/mouseinputbutton.h
+Copyright: 2009 Chani Armitage <chani@kde.org>
+           2010 Stefan Majewsky <majewsky@gmx.net>
+License: LGPL-2+
+
+Files: libpala/libpalamacros.h
+       libpala/slicer.cpp
+       libpala/slicer.h
+       libpala/slicerjob.cpp
+       libpala/slicerjob.h
+       libpala/slicermode.cpp
+       libpala/slicermode.h
+       libpala/slicerproperty.cpp
+       libpala/slicerproperty.h
+       libpala/slicerpropertyset.cpp
+       libpala/slicerpropertyset.h
+       src/config/elidinglabel.cpp
+       src/config/elidinglabel.h
+       src/config/mouseinputbutton_p.h
+       src/config/triggerconfigwidget.cpp
+       src/config/triggerconfigwidget.h
+       src/config/triggerlistview.cpp
+       src/config/triggerlistview.h
+       src/config/triggerlistview_p.h
+Copyright: 2009-2010, Stefan Majewsky <majewsky@gmx.net>
+License: LGPL-2+
 
 Files: debian/*
-Copyright: 2012 Jonathan Riddell <jriddell@ubuntu.com>
+Copyright: 2007-2013, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 License: GPL-2+
-
-Files: libpala/*
-Copyright: 2009 Stefan Majewsky <majewsky@gmx.net>
-License: LGPL-2+
 
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
@@ -22,14 +66,25 @@ License: GPL-2+
  .
  This package is distributed in the hope that it will be useful,
  but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the 
  GNU General Public License for more details.
  .
  You should have received a copy of the GNU General Public License
  along with this program. If not, see <http://www.gnu.org/licenses/>
  .
- On Debian systems, the complete text of the GNU General
- Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
+ On Debian systems, the complete text of the GNU General Public
+ License version 2 can be found in "/usr/share/common-licenses/GPL-2".
+
+License: GFDL-1.2+
+ Permission is granted to copy, distribute and/or modify this document
+ under the terms of the GNU Free Documentation License, Version 1.2
+ or any later version published by the Free Software Foundation;
+ with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+ A copy of the license is included in the section entitled "GNU
+ Free Documentation License".
+ .
+ On Debian systems, the complete text of the GNU Free Documentation
+ License version 1.2 can be found in "/usr/share/common-licenses/GFDL-1.2".
 
 License: LGPL-2+
  This library is free software; you can redistribute it and/or
@@ -46,5 +101,6 @@ License: LGPL-2+
  License along with this library; if not, write to the Free Software
  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
  .
- On Debian systems, the complete text of the GNU Library General
- Public License version 2 can be found in "/usr/share/common-licenses/LGPL-2".
+ On Debian systems, the complete text of the GNU Library General Public
+ License version 2 can be found in "/usr/share/common-licenses/LGPL-2".
+

@@ -1,3 +1,15 @@
+palapeli (4:4.10.3-0ubuntu1) saucy; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 23 May 2013 11:04:59 +0000
+
+palapeli (4:4.10.2-1) experimental; urgency=low
+
+  * First release of kdegames after being split by upstream.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 12 Apr 2013 12:12:41 +0200
+
 palapeli (4:4.10.2-0ubuntu1) raring; urgency=low
 
   * New upstream bugfix release
@@ -41,3 +53,4 @@ palapeli (4:4.9.90-0ubuntu1) raring-proposed; urgency=low
   * Initial release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 07 Dec 2012 18:18:28 +0000
+

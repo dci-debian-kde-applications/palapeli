@@ -17,8 +17,8 @@ Build-Depends: kde-sc-dev-latest (>= 4:4.10.2),
  shared-mime-info
 Standards-Version: 3.9.4
 Homepage: http://games.kde.org/
-Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/palapeli.git
-Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/palapeli.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/palapeli.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/palapeli.git
 
 Package: palapeli-data
 Architecture: all

@@ -1,9 +1,9 @@
-palapeli (4:4.11.3-1) UNRELEASED; urgency=low
+palapeli (4:4.11.3-1) unstable; urgency=low
 
   * New upstream release.
   * Update build dependencies.
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 07 Nov 2013 10:17:22 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 07 Nov 2013 14:27:45 +0100
 
 palapeli (4:4.11.2-1) experimental; urgency=low
 

@@ -1,6 +1,7 @@
 palapeli (4:4.11.5-1) UNRELEASED; urgency=medium
 
   * New upstream release.
+  * Do not disable an empty test set.
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 30 Jan 2014 15:08:59 +0100
 

@@ -2,6 +2,7 @@ palapeli (4:4.11.5-1) UNRELEASED; urgency=medium
 
   * New upstream release.
   * Do not disable an empty test set.
+  * Bump Standards-Version to 3.9.5, no changes needed.
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 30 Jan 2014 15:08:59 +0100
 

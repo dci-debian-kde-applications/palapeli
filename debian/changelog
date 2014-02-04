@@ -1,3 +1,9 @@
+palapeli (4:4.12.2-1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 04 Feb 2014 19:08:30 +0100
+
 palapeli (4:4.11.5-1) unstable; urgency=medium
 
   * New upstream release.

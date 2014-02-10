@@ -12,7 +12,7 @@ Uploaders: Daniel Schepler <schepler@debian.org>,
            Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake,
                debhelper (>= 9),
-               kde-sc-dev-latest (>= 4:4.11),
+               kde-sc-dev-latest (>= 4:4.12),
                kdelibs5-dev (>= 4:4.11),
                libkdegames-dev (>= 4:4.11),
                pkg-kde-tools (>= 0.14),

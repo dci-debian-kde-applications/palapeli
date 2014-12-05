@@ -1,0 +1,16 @@
+#unused dev files
+./usr/include/Pala/Slicer
+./usr/include/Pala/SlicerJob
+./usr/include/Pala/SlicerMode
+./usr/include/Pala/SlicerProperty
+./usr/include/Pala/SlicerPropertySet
+./usr/include/libpala/libpalamacros.h
+./usr/include/libpala/slicer.h
+./usr/include/libpala/slicerjob.h
+./usr/include/libpala/slicermode.h
+./usr/include/libpala/slicerproperty.h
+./usr/include/libpala/slicerpropertyset.h
+./usr/lib/libpala.so
+./usr/lib/libpala/libpala-config.cmake
+./usr/lib/libpala/pala-targets-debian.cmake
+./usr/lib/libpala/pala-targets.cmake

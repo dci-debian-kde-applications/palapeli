@@ -1,7 +1,7 @@
 Source: palapeli
 Section: games
 Priority: optional
-Maintainer: Debian/Ubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Maintainer: Debian/Kubuntu/Ubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 X-Ubuntu-Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 Uploaders: Daniel Schepler <schepler@debian.org>,
            Sune Vuorela <sune@debian.org>,
@@ -20,9 +20,9 @@ Build-Depends: cmake,
                shared-mime-info
 Standards-Version: 3.9.5
 Homepage: http://games.kde.org/
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/palapeli.git
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/palapeli.git
-X-Ubuntu-Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/palapeli
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-applications/palapeli.git/
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/palapeli.git
+X-Ubuntu-Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-applications/palapeli.git/
 X-Ubuntu-Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/palapeli
 
 Package: palapeli-data

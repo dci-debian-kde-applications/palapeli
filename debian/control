@@ -44,7 +44,7 @@ Architecture: any
 Depends: palapeli-data (>= ${source:Version}),
          ${misc:Depends},
          ${shlibs:Depends}
-Recommends: khelpcenter4, qhull-bin
+Recommends: khelpcenter, qhull-bin
 Description: jigsaw puzzle game
  Palapeli is a jigsaw puzzle game. Unlike other games in that genre,
  you are not limited to aligning pieces on imaginary grids. The

@@ -2,8 +2,11 @@ palapeli (4:14.12.2-1~) UNRELEASED; urgency=medium
 
   * New upstream release (14.12.2).
 
- [ Scarlett Clark ]
+  [ Scarlett Clark ]
   * Add back kdelibs parent version depends.
+
+  [ Maximiliano Curia ]
+  * Bump Standards-Version to 3.9.6, no changes needed.
 
  -- Maximiliano Curia <maxy@debian.org>  Sun, 22 Feb 2015 20:27:46 +0100
 

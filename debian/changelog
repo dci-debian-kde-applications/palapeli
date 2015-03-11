@@ -2,6 +2,8 @@ palapeli (4:14.12.3-0ubuntu1) UNRELEASED; urgency=medium
 
   * Add back kdelibs parent version depends. 
   * New upstream release
+  * Fix kdelibs5 version in build depends
+  * libkdegames was renamed to 4 to accomodate 4 and 5. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 09 Mar 2015 11:35:24 -0700
 

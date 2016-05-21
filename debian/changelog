@@ -1,10 +1,6 @@
-palapeli (4:15.12.3-1~2.gbp1ed947) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @1ed9472374a795f2931a30da5a2ef6289071975b **
+palapeli (4:15.12.3-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @32765bef0389dd35ee3b5b4a702eae963f9e9830 **
-
   * Bump Standards-Version to 3.9.8
 
   [ Maximiliano Curia ]
@@ -13,7 +9,7 @@ palapeli (4:15.12.3-1~2.gbp1ed947) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:01:15 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 May 2016 23:52:41 +0200
 
 palapeli (4:15.12.0-1) experimental; urgency=medium
 

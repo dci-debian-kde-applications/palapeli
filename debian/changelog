@@ -1,4 +1,6 @@
-palapeli (4:16.08.0-0r1) UNRELEASED; urgency=medium
+palapeli (4:16.08.0-1~1.gbp09b516) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @09b516cefcd35edb36f8140fb457db74dc02e765 **
 
   [ Pino Toscano ]
   * New upstream release.

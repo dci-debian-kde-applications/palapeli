@@ -1,11 +1,11 @@
-palapeli (4:16.08.0-0r1) UNRELEASED; urgency=medium
+palapeli (4:16.08.0-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
   * New upstream release.
   * Remove the dh_auto_install override, since it does not do anything more
     than what is done without the it.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 28 Aug 2016 07:42:17 +0200
+ -- Pino Toscano <pino@debian.org>  Sun, 28 Aug 2016 07:54:38 +0200
 
 palapeli (4:15.12.3-1) unstable; urgency=medium
 

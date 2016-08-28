@@ -2,6 +2,8 @@ palapeli (4:16.08.0-0r1) UNRELEASED; urgency=medium
 
   [ Pino Toscano ]
   * New upstream release.
+  * Remove the dh_auto_install override, since it does not do anything more
+    than what is done without the it.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 28 Aug 2016 07:42:17 +0200
 

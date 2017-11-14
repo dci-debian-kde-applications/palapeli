@@ -26,6 +26,7 @@ Build-Depends: cmake,
                libkf5widgetsaddons-dev,
                libkf5xmlgui-dev,
                pkg-kde-tools (>= 0.14),
+               libqt5svg5-dev,
                qtbase5-dev,
                shared-mime-info
 Standards-Version: 3.9.8

@@ -10,7 +10,8 @@
 ./usr/include/libpala/slicermode.h
 ./usr/include/libpala/slicerproperty.h
 ./usr/include/libpala/slicerpropertyset.h
-./usr/lib/*/libpala.so
-./usr/lib/*/libpala/libpala-config.cmake
-./usr/lib/*/libpala/pala-targets-debian.cmake
-./usr/lib/*/libpala/pala-targets.cmake
+./usr/include/libpala/libpala_export.h
+./usr/lib/x86_64-linux-gnu/libpala.so
+./usr/lib/x86_64-linux-gnu/libpala/libpala-config.cmake
+./usr/lib/x86_64-linux-gnu/libpala/pala-targets-debian.cmake
+./usr/lib/x86_64-linux-gnu/libpala/pala-targets.cmake

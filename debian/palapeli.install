@@ -10,4 +10,4 @@ usr/share/kservicetypes5
 usr/share/kxmlgui5/palapeli/palapeliui.rc
 usr/share/metainfo/org.kde.palapeli.appdata.xml
 usr/share/mime/packages/palapeli-mimetypes.xml
-usr/share/palapeli/palapeli.kcfg
+usr/share/palapeli

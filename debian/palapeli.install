@@ -1,7 +1,7 @@
 etc/xdg/palapeli-collectionrc
 usr/games/palapeli
 usr/lib/*/qt5/plugins/*
-usr/lib/x86_64-linux-gnu/libpala.so.*
+usr/lib/*/libpala.so.*
 usr/share/applications/org.kde.palapeli.desktop
 usr/share/icons
 usr/share/knotifications5/palapeli.notifyrc

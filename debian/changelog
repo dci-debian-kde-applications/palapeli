@@ -1,4 +1,4 @@
-palapeli (4:16.08.0-2~) UNRELEASED; urgency=medium
+palapeli (4:17.12.0-0neon) xenial; urgency=medium
 
   [ Maximiliano Curia ]
   * New revision
@@ -7,7 +7,10 @@ palapeli (4:16.08.0-2~) UNRELEASED; urgency=medium
   [ Automatic packaging ]
   * Update changelog for 4:16.08.0-1~1.gbp09b516 release
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 31 Oct 2017 18:04:02 +0100
+  [ Neon CI ]
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 15 Dec 2017 13:26:38 +0000
 
 palapeli (4:16.08.0-1) unstable; urgency=medium
 

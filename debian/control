@@ -24,6 +24,8 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/palapeli.git
 Package: palapeli-data
 Architecture: all
 Depends: ${misc:Depends}
+Breaks: palapeli (<< 4:17.08.3~)
+Replaces: palapeli (<< 4:17.08.3~)
 Description: data files for palapeli jigsaw puzzle game
  Data files (puzzles) for the palapeli puzzle game.
  .

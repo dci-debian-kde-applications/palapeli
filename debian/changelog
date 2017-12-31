@@ -8,6 +8,8 @@ palapeli (4:17.08.3-0r1) UNRELEASED; urgency=medium
   * Bump Standards-Version to 4.1.3, no changes required.
   * Simplify watch file, and switch it to https.
   * Update install files.
+  * Move icons, and mimetype file to palapeli-data
+    - add proper breaks/replaces
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:04:02 +0100
 

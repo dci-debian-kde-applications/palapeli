@@ -1,13 +1,12 @@
-palapeli (4:16.08.0-2~) UNRELEASED; urgency=medium
+palapeli (4:17.08.3-0r1) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
-  * New revision
   * Update uploaders list as requested by MIA team (Closes: #879418)
 
-  [ Automatic packaging ]
-  * Update changelog for 4:16.08.0-1~1.gbp09b516 release
+  [ Pino Toscano ]
+  * New upstream release.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 31 Oct 2017 18:04:02 +0100
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:04:02 +0100
 
 palapeli (4:16.08.0-1) unstable; urgency=medium
 

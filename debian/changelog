@@ -1,4 +1,6 @@
-palapeli (4:17.08.3-0r1) UNRELEASED; urgency=medium
+palapeli (4:17.08.3-1) unstable; urgency=medium
+
+  * Team upload.
 
   [ Maximiliano Curia ]
   * Update uploaders list as requested by MIA team (Closes: #879418)
@@ -11,7 +13,7 @@ palapeli (4:17.08.3-0r1) UNRELEASED; urgency=medium
   * Move icons, and mimetype file to palapeli-data
     - add proper breaks/replaces
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:04:02 +0100
+ -- Pino Toscano <pino@debian.org>  Thu, 11 Jan 2018 09:52:19 +0100
 
 palapeli (4:16.08.0-1) unstable; urgency=medium
 
